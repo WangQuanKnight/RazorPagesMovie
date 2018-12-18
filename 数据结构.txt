@@ -1,0 +1,4 @@
+Movie : ID Title ReleaseDate Genre Price
+
+Add-Migration 用于创建初始数据库架构的代码
+database update 创建数据库
