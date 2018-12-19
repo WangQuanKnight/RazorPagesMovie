@@ -2,3 +2,10 @@ Movie : ID Title ReleaseDate Genre Price
 
 Add-Migration 用于创建初始数据库架构的代码
 database update 创建数据库
+
+1.ReleaseDate在数据库中的名称改为：Release Date
+2.Price 的精度修改为 demical(18,2)
+
+3.添加查询字符串
+4.添加流派下拉列表
+5.添加用户选定的特定流派
