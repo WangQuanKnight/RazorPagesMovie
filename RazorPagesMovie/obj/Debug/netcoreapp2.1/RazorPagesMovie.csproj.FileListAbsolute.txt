@@ -5,7 +5,6 @@ c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1
 c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.pdb
 c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.Views.dll
 c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.Views.pdb
-c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csprojAssemblyReference.cache
 c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CoreCompileInputs.cache
 c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cache
 c:\users\wq\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cs
@@ -72,3 +71,4 @@ C:\Users\WQ\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1
 C:\Users\WQ\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Details.g.cshtml.cs
 C:\Users\WQ\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Edit.g.cshtml.cs
 C:\Users\WQ\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Index.g.cshtml.cs
+C:\Users\WQ\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csprojAssemblyReference.cache
