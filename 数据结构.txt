@@ -16,3 +16,21 @@ database update 创建数据库
 8.Price 字段类型为货币，范围为1-100
 9.Genre 必须字段 长度为30，格式为：必须以一个或多个大写字母开始，并且后接零个或多个字母、单引号或双引号、空白字符或短划线。
 10.Rating 必须字段，长度为5，格式为：必须以一个或多个大写字母开始，并且后接零个或多个字母、数字、单引号或双引号、空白字符或短划线
+
+11.FileUpload 
+ a.Title 必须，显示名称Title 长度3-60
+ b.IFormFIle UploadPublicSchedule 必须，显示名称：Public Schedule
+ c.IFormFile UploadPrivateSchedule 必须，显示名称：Private Schedule
+
+12.FileHelper -> ProcessFormFile(IFormFile,ModelStateDictionary
+ 主要返回文件内容或者错误状态
+
+13 Schedule 
+ a.ID
+ b.Title
+ c.PublicSchedule
+ d.PublicScheduleSize 显示名称： Public Schedule Size (bytes),显示格式：0:N1
+ e.PrivateSchedule
+ f.PrivateScheduleSize 显示名称：Private Schedule Size (bytes),显示格式：0:N1
+ g.UploadDT 显示名称 Uploaded (UTC) 显示格式：0:F
+
